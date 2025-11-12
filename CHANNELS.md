@@ -1,6 +1,6 @@
-I recommend using the Semi-Anual Enterprise Channel when installing office on a businees information system.
+### *When installing MS Office on a business information system I highly recommend you choose the Semi-Anual Enterprise channel, and for businesses classified as financial institutions according to the Bank Holding Company Act of 1956 better known as the Financial Modernization Act requiring business to comply with Gramm-Leach-Bliley Act (GLBA) of 1999 setting the servicing channel to Simi-Anual Enterprise is not a recommendation is a requirements..*
 
-Here’s when SAEC makes sense for a small business (e.g., a real-estate brokerage):
+Here’s when SAEC makes sense for a small business:
 
 * **Stability first.** New features arrive only **twice a year** (planned for **January** and **July**), which reduces surprise UI changes that confuse staff or disrupt add-ins your team relies on (DocuSign, transaction-management, MLS tools, etc.). ([Microsoft Learn][1])
 * **Predictable change windows.** You can plan training and testing around two known dates rather than chasing monthly changes. Security fixes still come **every month**, so you’re not trading away safety. ([Microsoft Learn][1])
