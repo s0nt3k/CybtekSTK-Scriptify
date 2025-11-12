@@ -2,7 +2,6 @@
   <img src="images/scriptify.png" alt="Scriptify logo" width="280">
 </p>
 
-# Scriptify (ODT Utility)
 **Cybtek STK – Office Deployment Tool Front‑End (PowerShell 5.1, WPF)**
 
 > A friendly, click‑driven way to download, configure, and install Microsoft Office using the official Office Deployment Tool (ODT). Built for small businesses—and especially real‑estate teams—who need predictable, low‑friction Office installs.
