@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/scriptify.png" alt="Scriptify logo" width="280">
+</p>
+
 # Scriptify (ODT Utility)
 **Cybtek STK – Office Deployment Tool Front‑End (PowerShell 5.1, WPF)**
 
